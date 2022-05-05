@@ -1,0 +1,8 @@
+*.pyc
+*~
+/ .vscdoe
+__pychache__
+myvenv
+db.sqlite3
+/static
+.Ds_Store
